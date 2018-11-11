@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "Organic Kids Multivitamin",
+      "company": "SmartyPants"
+    },
+    {
+      "name": "Organic Soy-Free Sauce",
+      "company": "Ocean's Halo"
+    },
+    {
+      "name": "Dairy Free Butter",
+      "company": "MELT Organic"
+    },
+    {
+      "name": "Stress & Anxiety Supplement",
+      "company": "AOR"
+    },
+    {
+      "name": "Sambucol Black Elderberry Gummies",
+      "company": "Sambucol®"
+    },
+    {
+      "name": "Vegan Broth",
+      "company": "Ocean's Halo"
+    }
+  ]
+}
